@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Atuxbrx",
+    "master": true,
+    "password_hash": "$2a$11$gj06YW8PKha55HtFxZGKUekbBUdmwzOk/JnkKwXs8gXlp9JluN4qW",
+    "providers": {
+      "citizenfx": {
+        "id": "Atuxbrx",
+        "identifier": "fivem:1036584",
+        "data": {}
+      },
+      "discord": {
+        "id": "425852550672023552",
+        "identifier": "discord:425852550672023552",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "tuks",
+    "master": false,
+    "password_hash": "$2a$11$IH8yaxOib9xATTTG1whGyu6WJfeppualgdJugzaj7RNJrxW6ceWl6",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "425852550672023552",
+        "identifier": "discord:425852550672023552",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
